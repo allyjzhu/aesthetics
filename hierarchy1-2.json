@@ -1,0 +1,986 @@
+{
+  "name": "Aesthetics",
+  "children": [
+    {
+      "name": "2010s Internet"
+    },
+    {
+      "name": "2020s E-Kid"
+    },
+    {
+      "name": "2K1"
+    },
+    {
+      "name": "2K7"
+    },
+    {
+      "name": "90s Cool"
+    },
+    {
+      "name": "Abstract Tech"
+    },
+    {
+      "name": "Acid Design"
+    },
+    {
+      "name": "Acid Pixie"
+    },
+    {
+      "name": "Acidwave"
+    },
+    {
+      "name": "Adventure Pulp"
+    },
+    {
+      "name": "Afrofuturism"
+    },
+    {
+      "name": "After Hours"
+    },
+    {
+      "name": "Ah Beng"
+    },
+    {
+      "name": "Alien"
+    },
+    {
+      "name": "Alternative"
+    },
+    {
+      "name": "Americana"
+    },
+    {
+      "name": "Androgynous"
+    },
+    {
+      "name": "Angelcore"
+    },
+    {
+      "name": "Anglo Gothic"
+    },
+    {
+      "name": "Anime New Moon"
+    },
+    {
+      "name": "Animecore"
+    },
+    {
+      "name": "Appalachian Gothic"
+    },
+    {
+      "name": "Arcadecore"
+    },
+    {
+      "name": "Aristocrat"
+    },
+    {
+      "name": "Art Deco"
+    },
+    {
+      "name": "Art Hoe"
+    },
+    {
+      "name": "Auroracore"
+    },
+    {
+      "name": "Babygirl"
+    },
+    {
+      "name": "Bakala"
+    },
+    {
+      "name": "Ballet Academia"
+    },
+    {
+      "name": "Barbiecore"
+    },
+    {
+      "name": "Baroque"
+    },
+    {
+      "name": "Belgian New Beat"
+    },
+    {
+      "name": "Bimbocore"
+    },
+    {
+      "name": "Biopunk"
+    },
+    {
+      "name": "Bleak Crush"
+    },
+    {
+      "name": "Blingeecore"
+    },
+    {
+      "name": "Bloomcore"
+    },
+    {
+      "name": "Boujee"
+    },
+    {
+      "name": "Boystyle"
+    },
+    {
+      "name": "Bratzcore"
+    },
+    {
+      "name": "Breakcore"
+    },
+    {
+      "name": "Bright Tertiaries"
+    },
+    {
+      "name": "Bro"
+    },
+    {
+      "name": "Brutal Industrial"
+    },
+    {
+      "name": "Bubblegum Coquette"
+    },
+    {
+      "name": "Bubblegum Dance"
+    },
+    {
+      "name": "Camp"
+    },
+    {
+      "name": "Cani"
+    },
+    {
+      "name": "Cartooncore"
+    },
+    {
+      "name": "Catholic Horror"
+    },
+    {
+      "name": "Chav"
+    },
+    {
+      "name": "Cheiron Crush"
+    },
+    {
+      "name": "Chic Modernist"
+    },
+    {
+      "name": "Choni"
+    },
+    {
+      "name": "Chromecore"
+    },
+    {
+      "name": "City Pop"
+    },
+    {
+      "name": "Classicism"
+    },
+    {
+      "name": "Club"
+    },
+    {
+      "name": "Coconut Girl"
+    },
+    {
+      "name": "Coffinwood"
+    },
+    {
+      "name": "Constructivism"
+    },
+    {
+      "name": "Corporate"
+    },
+    {
+      "name": "Corporate Hippie"
+    },
+    {
+      "name": "Cottagecore"
+    },
+    {
+      "name": "Cottagegore"
+    },
+    {
+      "name": "Crackhead"
+    },
+    {
+      "name": "Cryptidcore"
+    },
+    {
+      "name": "Cuddle Party"
+    },
+    {
+      "name": "Cyber Grunge"
+    },
+    {
+      "name": "Cybercore"
+    },
+    {
+      "name": "Cyberdelic"
+    },
+    {
+      "name": "Cyberghetto"
+    },
+    {
+      "name": "Cybergoth"
+    },
+    {
+      "name": "Cyberparadism"
+    },
+    {
+      "name": "Cyberpop"
+    },
+    {
+      "name": "Cyberprep"
+    },
+    {
+      "name": "Cyberpunk"
+    },
+    {
+      "name": "Cybervillain"
+    },
+    {
+      "name": "DORFic"
+    },
+    {
+      "name": "Dandy"
+    },
+    {
+      "name": "Dark Academia"
+    },
+    {
+      "name": "Dark Aero"
+    },
+    {
+      "name": "Dark Fantasy"
+    },
+    {
+      "name": "Dark Paradise"
+    },
+    {
+      "name": "Dark Royaltycore"
+    },
+    {
+      "name": "Dark Y2K"
+    },
+    {
+      "name": "Dazecore"
+    },
+    {
+      "name": "Delicate Sweet"
+    },
+    {
+      "name": "Denpa"
+    },
+    {
+      "name": "Devilcore"
+    },
+    {
+      "name": "Dieselpunk"
+    },
+    {
+      "name": "Digital Horror"
+    },
+    {
+      "name": "Disco"
+    },
+    {
+      "name": "Dokukawaii"
+    },
+    {
+      "name": "Dollar Store Vernacular"
+    },
+    {
+      "name": "Dollette"
+    },
+    {
+      "name": "Doomer"
+    },
+    {
+      "name": "Drain"
+    },
+    {
+      "name": "Dreamcore"
+    },
+    {
+      "name": "Dreamy"
+    },
+    {
+      "name": "Dresiarz"
+    },
+    {
+      "name": "Drugcore"
+    },
+    {
+      "name": "Dual Kawaii"
+    },
+    {
+      "name": "E-Boy"
+    },
+    {
+      "name": "E-Girl"
+    },
+    {
+      "name": "Earthcore"
+    },
+    {
+      "name": "Eccentric"
+    },
+    {
+      "name": "Edgy Meme"
+    },
+    {
+      "name": "ElectroPop 08"
+    },
+    {
+      "name": "ElsaGate"
+    },
+    {
+      "name": "Emo"
+    },
+    {
+      "name": "Ero-Guro"
+    },
+    {
+      "name": "Ethereal"
+    },
+    {
+      "name": "Fairy Academia"
+    },
+    {
+      "name": "Fairy Grunge"
+    },
+    {
+      "name": "Fairy Tale"
+    },
+    {
+      "name": "Fairycore"
+    },
+    {
+      "name": "FantasY2K"
+    },
+    {
+      "name": "Fantasy"
+    },
+    {
+      "name": "Femcel Weeaboo"
+    },
+    {
+      "name": "Flat Design"
+    },
+    {
+      "name": "Foodie"
+    },
+    {
+      "name": "Forestpunk"
+    },
+    {
+      "name": "Fotonight Web"
+    },
+    {
+      "name": "Four Colors"
+    },
+    {
+      "name": "Frutiger Aero"
+    },
+    {
+      "name": "Frutiger Aurora"
+    },
+    {
+      "name": "Frutiger Eco"
+    },
+    {
+      "name": "Frutiger Metro"
+    },
+    {
+      "name": "Future Funk"
+    },
+    {
+      "name": "Gangsta Rap"
+    },
+    {
+      "name": "Gen X Soft Club"
+    },
+    {
+      "name": "Ghostcore"
+    },
+    {
+      "name": "Girly (Japanese)"
+    },
+    {
+      "name": "Girly Girl"
+    },
+    {
+      "name": "Glam Rock"
+    },
+    {
+      "name": "Glowwave"
+    },
+    {
+      "name": "Goblincore"
+    },
+    {
+      "name": "Googie"
+    },
+    {
+      "name": "Gorecore"
+    },
+    {
+      "name": "Goth"
+    },
+    {
+      "name": "Gothic"
+    },
+    {
+      "name": "Gothic Lolita"
+    },
+    {
+      "name": "Grotesque"
+    },
+    {
+      "name": "Groundcore"
+    },
+    {
+      "name": "Grunge"
+    },
+    {
+      "name": "Gurokawa"
+    },
+    {
+      "name": "Hacker"
+    },
+    {
+      "name": "Hands Up"
+    },
+    {
+      "name": "Happycore"
+    },
+    {
+      "name": "Harajuku Fashion"
+    },
+    {
+      "name": "Helvetica Aqua Aero"
+    },
+    {
+      "name": "Heroin Chic"
+    },
+    {
+      "name": "HexD"
+    },
+    {
+      "name": "Hexatron"
+    },
+    {
+      "name": "High School Dream"
+    },
+    {
+      "name": "Hip-Hop"
+    },
+    {
+      "name": "Hipness Purgatory"
+    },
+    {
+      "name": "Hippie"
+    },
+    {
+      "name": "Hipster"
+    },
+    {
+      "name": "Horror"
+    },
+    {
+      "name": "Hot Topic"
+    },
+    {
+      "name": "Hyperpop"
+    },
+    {
+      "name": "Imaginarium"
+    },
+    {
+      "name": "Indie"
+    },
+    {
+      "name": "Indie Kid"
+    },
+    {
+      "name": "Indie Sleaze"
+    },
+    {
+      "name": "Internet Awesomesauce"
+    },
+    {
+      "name": "Italian Futurism"
+    },
+    {
+      "name": "Italian Mafia"
+    },
+    {
+      "name": "Jirai Kei"
+    },
+    {
+      "name": "Kawaii"
+    },
+    {
+      "name": "Kidcore"
+    },
+    {
+      "name": "Kinderwhore"
+    },
+    {
+      "name": "Kingcore"
+    },
+    {
+      "name": "Kitschy"
+    },
+    {
+      "name": "Krushclub"
+    },
+    {
+      "name": "Kuromicore"
+    },
+    {
+      "name": "LOLcore"
+    },
+    {
+      "name": "Larpercore"
+    },
+    {
+      "name": "Las Movidas"
+    },
+    {
+      "name": "Light Academia"
+    },
+    {
+      "name": "Liminal Space"
+    },
+    {
+      "name": "Lo-Fi"
+    },
+    {
+      "name": "Lobotomy Chic"
+    },
+    {
+      "name": "Lolita"
+    },
+    {
+      "name": "Low Poly"
+    },
+    {
+      "name": "MTV 2 Overcast"
+    },
+    {
+      "name": "MTV Green Sky"
+    },
+    {
+      "name": "Major League Gaming"
+    },
+    {
+      "name": "Mallgoth"
+    },
+    {
+      "name": "Mallsoft"
+    },
+    {
+      "name": "Mary Sue"
+    },
+    {
+      "name": "McBling"
+    },
+    {
+      "name": "Melodycore"
+    },
+    {
+      "name": "Memphis Design"
+    },
+    {
+      "name": "Mermaid"
+    },
+    {
+      "name": "Metal"
+    },
+    {
+      "name": "Metalheart"
+    },
+    {
+      "name": "Midwest Gothic"
+    },
+    {
+      "name": "Milipili"
+    },
+    {
+      "name": "Mind Murder"
+    },
+    {
+      "name": "Minimalism"
+    },
+    {
+      "name": "Mizuiro"
+    },
+    {
+      "name": "Modernism"
+    },
+    {
+      "name": "Moe Swag"
+    },
+    {
+      "name": "Monstercore"
+    },
+    {
+      "name": "Mori Kei"
+    },
+    {
+      "name": "Morute"
+    },
+    {
+      "name": "Mossy"
+    },
+    {
+      "name": "Motomami"
+    },
+    {
+      "name": "Mythpunk"
+    },
+    {
+      "name": "Naturecore"
+    },
+    {
+      "name": "Nautical"
+    },
+    {
+      "name": "Nautical Fantasy"
+    },
+    {
+      "name": "Necrotrap"
+    },
+    {
+      "name": "Neo-Celtic"
+    },
+    {
+      "name": "Neo-Romanism"
+    },
+    {
+      "name": "Neo-Tribal"
+    },
+    {
+      "name": "Nerd"
+    },
+    {
+      "name": "Neubrutalism"
+    },
+    {
+      "name": "New Age"
+    },
+    {
+      "name": "New Romantic"
+    },
+    {
+      "name": "New Wave"
+    },
+    {
+      "name": "Northerness"
+    },
+    {
+      "name": "Nostalgiacore"
+    },
+    {
+      "name": "Nu-Goth"
+    },
+    {
+      "name": "Nu-Metal"
+    },
+    {
+      "name": "Nymphet"
+    },
+    {
+      "name": "Ocean Grunge"
+    },
+    {
+      "name": "Old Meme"
+    },
+    {
+      "name": "Party Animal"
+    },
+    {
+      "name": "Pastel Academia"
+    },
+    {
+      "name": "Pastel Gore"
+    },
+    {
+      "name": "Pink Parisian"
+    },
+    {
+      "name": "Politicalwave"
+    },
+    {
+      "name": "Poolcore"
+    },
+    {
+      "name": "Pop Art"
+    },
+    {
+      "name": "Poppare"
+    },
+    {
+      "name": "Post-Punk"
+    },
+    {
+      "name": "Princecore"
+    },
+    {
+      "name": "Princesscore"
+    },
+    {
+      "name": "Psychedelica"
+    },
+    {
+      "name": "Punk"
+    },
+    {
+      "name": "Rage HD"
+    },
+    {
+      "name": "Rainbowcore"
+    },
+    {
+      "name": "Rainy Day"
+    },
+    {
+      "name": "Raver"
+    },
+    {
+      "name": "Raxet"
+    },
+    {
+      "name": "Raygun Gothic"
+    },
+    {
+      "name": "Renewable Corporate Futurism"
+    },
+    {
+      "name": "Retro-Futurism"
+    },
+    {
+      "name": "Rivethead"
+    },
+    {
+      "name": "Rococo"
+    },
+    {
+      "name": "Romantic Academia"
+    },
+    {
+      "name": "Romantic Italian"
+    },
+    {
+      "name": "Romanticism"
+    },
+    {
+      "name": "Rustic"
+    },
+    {
+      "name": "Sadpeople"
+    },
+    {
+      "name": "Salvagepunk"
+    },
+    {
+      "name": "Sanriocore"
+    },
+    {
+      "name": "Scene"
+    },
+    {
+      "name": "Science Academia"
+    },
+    {
+      "name": "Scrapbook"
+    },
+    {
+      "name": "Seapunk"
+    },
+    {
+      "name": "Seiz Breur"
+    },
+    {
+      "name": "Sextrance"
+    },
+    {
+      "name": "Shibuya Punk"
+    },
+    {
+      "name": "Sigilkore"
+    },
+    {
+      "name": "Silicon Dreams"
+    },
+    {
+      "name": "Skeuomorphism"
+    },
+    {
+      "name": "Solarpunk"
+    },
+    {
+      "name": "Southern Gothic"
+    },
+    {
+      "name": "Spanish Golden Age"
+    },
+    {
+      "name": "Sparklecore"
+    },
+    {
+      "name": "Steampunk"
+    },
+    {
+      "name": "Stoner"
+    },
+    {
+      "name": "Strega"
+    },
+    {
+      "name": "Studyblr"
+    },
+    {
+      "name": "Studyplace"
+    },
+    {
+      "name": "Suburban Gothic"
+    },
+    {
+      "name": "Superflat Pop"
+    },
+    {
+      "name": "Surf Crush"
+    },
+    {
+      "name": "Surrealism"
+    },
+    {
+      "name": "Synthwave"
+    },
+    {
+      "name": "Technoneko2000"
+    },
+    {
+      "name": "Technozen"
+    },
+    {
+      "name": "Tecktonik"
+    },
+    {
+      "name": "Teenpunk"
+    },
+    {
+      "name": "The WB Crush"
+    },
+    {
+      "name": "Tomato Girl Summer"
+    },
+    {
+      "name": "Tranquil Spa Graphics"
+    },
+    {
+      "name": "Trap Metal"
+    },
+    {
+      "name": "Trashy Raver"
+    },
+    {
+      "name": "Traumacore"
+    },
+    {
+      "name": "Trillwave"
+    },
+    {
+      "name": "Tropical"
+    },
+    {
+      "name": "Tropicalcore"
+    },
+    {
+      "name": "Tweencore"
+    },
+    {
+      "name": "Unicorncore"
+    },
+    {
+      "name": "UrBling"
+    },
+    {
+      "name": "Urbancore"
+    },
+    {
+      "name": "Vacation Dadcore"
+    },
+    {
+      "name": "Vampire"
+    },
+    {
+      "name": "Vaporwave"
+    },
+    {
+      "name": "Vectorflourish"
+    },
+    {
+      "name": "Vectorheart"
+    },
+    {
+      "name": "Vh1 Sepia Sky"
+    },
+    {
+      "name": "Victorian"
+    },
+    {
+      "name": "Villaincore"
+    },
+    {
+      "name": "Violencecore"
+    },
+    {
+      "name": "Visual Pollution"
+    },
+    {
+      "name": "Waif"
+    },
+    {
+      "name": "Webcore"
+    },
+    {
+      "name": "Weeaboo"
+    },
+    {
+      "name": "Weirdcore"
+    },
+    {
+      "name": "Welwitschia Goth"
+    },
+    {
+      "name": "Wholesome Meme"
+    },
+    {
+      "name": "Winter Fairy Coquette"
+    },
+    {
+      "name": "Witch House"
+    },
+    {
+      "name": "Witchcore"
+    },
+    {
+      "name": "Wixa"
+    },
+    {
+      "name": "Xpiritualism"
+    },
+    {
+      "name": "Y2K"
+    },
+    {
+      "name": "Yami Kawaii"
+    },
+    {
+      "name": "Yume Kawaii"
+    }
+  ]
+}
